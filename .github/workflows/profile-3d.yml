@@ -1,9 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 09:00 BST == 1:00 UTC
-    - cron: "0 1 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"  # This runs the workflow daily at 1:00 UTC
+  workflow_dispatch:  # This allows manual triggering of the workflow
 
 jobs:
   build:
@@ -17,14 +17,14 @@ jobs:
       # Step 2: Generate 3D contribution graph
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token automatically available here
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: VatsalyaGautam
 
       # Step 3: Commit & Push the changes
       - name: Commit & Push
         run: |
           git config user.name VatsalyaGautam
-          git config user.email vatsalya@ssipmt.com  # Change to a valid email
+          git config user.email vatsalya@ssipmt.com  # Update to your actual email
           git add -A .
           git commit -m "generated"
           git push
