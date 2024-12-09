@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -17,7 +17,10 @@ jobs:
           github_user_name: VatsalyaGautam
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+              dist/github-contribution-grid-snake.svg
+    # Color options should be separate from the output filename
+    color_snake: '#3c7dd9'
+    color_dots: '#ebedf0,#9be9a8,#40c463,#30a14e,#216e39'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
