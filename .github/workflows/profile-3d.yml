@@ -1,39 +1,30 @@
 name: GitHub-Profile-3D-Contrib
+
 on:
-  # Triggers the workflow on push events
-  push:
-    branches: [ main ]
-  
-  # Triggers the workflow on pull request events
-  pull_request:
-    branches: [ main ]
-  
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-  
-  # Scheduled trigger
   schedule:
-    - cron: "0 1 * * *"  # Runs daily at 1:00 UTC
+    - cron: "0 1 * * *"  # This runs the workflow daily at 1:00 UTC
+  workflow_dispatch:  # This allows manual triggering of the workflow
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+
     steps:
       # Step 1: Check out the repository
       - uses: actions/checkout@v3
-      
+
       # Step 2: Generate 3D contribution graph
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: VatsalyaGautam
-      
+
       # Step 3: Commit & Push the changes
       - name: Commit & Push
         run: |
           git config user.name VatsalyaGautam
-          git config user.email vatsalya@ssipmt.com
+          git config user.email vatsalya@ssipmt.com  # Update to your actual email
           git add -A .
           git commit -m "generated"
-          git push origin main
+          git push
