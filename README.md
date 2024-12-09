@@ -103,27 +103,32 @@
 <br/>
 <div align="center">
 <h2 align='center'><i>Github Analytics ⚙️</i></h2>
-	
-![](profile-night-green.svg)
-
+<br>
 <markdown-accessiblity-table data-catalyst="">
   <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
-    <thead>
+	  <thead>
+		  <th colspan="2" align="center">
+			   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
+		  </th>
+	  </thead>
       <tr>
-        <th style="padding: 20px; text-align: center;">
+        <td style="padding: 20px; text-align: center;">
           <a target="_blank" rel="noopener noreferrer nofollow" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VatsalyaGautam&theme=github_dark">
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VatsalyaGautam&theme=github_dark" style= "width: 24.5em; height: 14em; object-fit: contain;" />
           </a>
-        </th>
-        <th style="padding: 20px; text-align: center;">
+        </td>
+        <td style="padding: 20px; text-align: center;">
           <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en">
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VatsalyaGautam&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
           </a>
-        </th>
+        </td>
       </tr>
-    </thead>
-	    <tr>
-        <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></td>
+<tr>
+        <td  colspan="2" align="center"> 
+		<br>
+		<img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/>
+		<br>
+	</td>
     </tr>
   </table>
   
