@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"  # Runs every 12 hours
+  workflow_dispatch:  # Allows manual triggering from the GitHub Actions tab
   push:
 
 jobs:
@@ -11,19 +11,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout the repository
       - uses: actions/checkout@v2
 
+      # Step 2: Generate Snake SVG based on user contributions
       - uses: Platane/snk/svg-only@v2
         id: snake-svg
         with:
           github_user_name: VatsalyaGautam
+          # Optional: Add additional configurations, like custom palettes, if needed
 
+      # Step 3: Check the status of the git repository
       - run: git status
 
+      # Step 4: Push generated files to the "output" branch
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}  # Use a personal access token if needed
