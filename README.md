@@ -40,9 +40,11 @@
 <br>
 <a href="https://linkedin.com/in/vatsalya17"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vatsalyagautam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><br/>
+
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 <h2 align='center'><i>Languages, Tools and Technologies 🚀 </i></h2>
@@ -83,7 +85,7 @@
 	</tr>
 	<tr>
 		<td><strong>Debugging Tools</strong></td>
-		<td> <img  src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></td>
+		<td> <img height=40 src="https://skillicons.dev/icons?i=stackoverflow&theme=dark"> &nbsp;<img height=40 src=https://i.ibb.co/qsFmdQc/Untitled-design-2-removebg-preview.png"> &nbsp;<img height=40 src="https://i.ibb.co/pwsQMbV/icon-removebg-preview.png"> &nbsp;<img height=40 src="https://i.ibb.co/t2YS8SV/Screenshot-2024-12-09-at-10-27-30-PM-removebg-preview-3.png"> &nbsp;<img height=40 src="https://i.ibb.co/ZL0HDJP/Untitled-design-5-removebg-preview.png"></td>
 	</tr>
 	<tr>
 		<td><strong>Collaboration Platforms</strong></td>
@@ -101,6 +103,7 @@
 <br/>
 <div align="center">
 <h2 align='center'><i>Github Analytics ⚙️</i></h2>
+	![](./profile-green-animate.svg)
 <markdown-accessiblity-table data-catalyst="">
   <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
     <thead>
