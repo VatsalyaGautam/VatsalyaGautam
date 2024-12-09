@@ -7,7 +7,7 @@
 </p>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <br>
-<img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalyagautam&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalyagautam" /> </p>
 
 - 🔭 I’m currently working on **careertronics.in**
@@ -48,6 +48,7 @@
 
 <div align="center">
 <h2 align='center'><i>Languages, Tools and Technologies 🚀 </i></h2>
+	<br>
 <table>
 	<tr>
 		<td><strong>Programming Languages</strong></td>
@@ -104,35 +105,36 @@
 <div align="center">
 <h2 align='center'><i>Github Analytics ⚙️</i></h2>
 <br>
-<markdown-accessiblity-table data-catalyst="">
+
   <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
 	  <thead>
+		<tr>
 		  <th colspan="2" align="center">
 			   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
 		  </th>
-	  </thead>
-      <tr>
-        <td style="padding: 20px; text-align: center;">
+		</tr>
+		 <tr>
+        <th style="padding: 20px; text-align: center;">
           <a target="_blank" rel="noopener noreferrer nofollow" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VatsalyaGautam&theme=github_dark">
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VatsalyaGautam&theme=github_dark" style= "width: 24.5em; height: 14em; object-fit: contain;" />
           </a>
-        </td>
-        <td style="padding: 20px; text-align: center;">
+        </th>
+        <th style="padding: 20px; text-align: center;">
           <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en">
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VatsalyaGautam&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
           </a>
-        </td>
+        </th>
       </tr>
-<tr>
+</thead>
+     <tr>
         <td  colspan="2" align="center"> 
-		<br>
-		<img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/>
-		<br>
+		<img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/>	
 	</td>
-    </tr>
+	</tr>
+     
+
   </table>
-  
-</markdown-accessiblity-table>
+
 
 </div>
 
