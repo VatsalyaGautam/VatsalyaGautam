@@ -5,8 +5,10 @@
 </p>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <br>
-<img align="right" alt="Coding" width="470" src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif">
+<div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalyagautam&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalyagautam" /> </p>
+</div>
+<img align="right"  alt="Coding" width="460" height="289" src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif">
 
 - 🔭 I’m currently working on **careertronics.in**
 
