@@ -1,9 +1,9 @@
 ![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhub29tbzZ6ejJ3OW9pZXNvOXliNjBsODd6MTJ0MTFmMnU2MTh0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ywyl1TRS9wqjmyxFeI/giphy.gif)
 
 <h1 align="center">Hi There! <img width="48" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm Vatsalya Gautam</h1>
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=29&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Full+Stack+Developer;Enthusiastic+Software+Developer;Creative+Problem+Solver+and+Thinker;Open-Source+Contributor+and+Innovator;IT+Enthusiast;DSA+Learner;Coding+the+Future!" />
-</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Ashmit;I'm+a+Developer+" alt="Typing SVG" /></a> </p>
+
+
 <h2 align="center">A Passionate Full Stack Developer from India 🇮🇳</h2>
 
 <div>
