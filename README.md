@@ -9,7 +9,7 @@
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalyagautam&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalyagautam" /> </p>
 </div>
-<img align="right"  alt="Coding" width="51%"  style=" height:100%;" src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif">
+<img align="right"  alt="Coding" width="51%"  src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif">
 
 <div align="left">
 	
@@ -25,7 +25,8 @@
 
 - 📫 Reach me @ **vatsalyagautam@gmail.com**
 
-- ⚡ Fun fact- **I once tried debugging my code for hours, only to realize I forgot to save the file. Now, I make sure to save every great idea!**
+- ⚡ Fun fact- **I once tried debugging my code for hours,**
+      **only to realize I forgot to save the file. Now, I make sure to save every great idea!**
 </div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
