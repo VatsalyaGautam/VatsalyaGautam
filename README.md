@@ -1,6 +1,6 @@
 
 
-<img src="https://private-user-images.githubusercontent.com/74038190/322279895-fe054170-c69a-41d2-8e73-f7f239ebc046.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM3NzkzNjIsIm5iZiI6MTczMzc3OTA2MiwicGF0aCI6Ii83NDAzODE5MC8zMjIyNzk4OTUtZmUwNTQxNzAtYzY5YS00MWQyLThlNzMtZjdmMjM5ZWJjMDQ2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA5VDIxMTc0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJjYTIxMzZiMzNlZWE4NDBmYmNmMjcyMzk2ZDAxOTJhYWQyNTFjN2E0N2U5ZTU2MTM3ZmU3Y2Q2MjBlNWQ2MTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IUR8om8gJ-ZjOeLGlVTQzkMhmUlU3E6ioAk9ZmhKVE4">
+<img src="https://i.ibb.co/jVdNK3Q/IMG-3400.png">
 <h1 align="center">Hi <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48">, I'm Vatsalya</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;DSA+Learner;MERN+Stack+Learner;IT+Enthusiast;Frontend+Developer;django+Learner;BlockChain+Enthusiast;Cloud+Developer;" alt="Typing SVG" />
