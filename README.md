@@ -11,7 +11,8 @@
 </div>
 <img align="right"  alt="Coding" width="51%"  style=" height:100%;" src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif">
 
-
+<div align="left">
+	
 - 🔭 I’m currently working on **careertronics.in**
 
 - 🌱 I’m currently learning **Django**
@@ -25,7 +26,7 @@
 - 📫 Reach me @ **vatsalyagautam@gmail.com**
 
 - ⚡ Fun fact- **I once tried debugging my code for hours, only to realize I forgot to save the file. Now, I make sure to save every great idea!**
-
+</div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
