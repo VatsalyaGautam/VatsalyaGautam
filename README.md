@@ -1,3 +1,9 @@
+<div align="center">
+	
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=500&&lines=Welcome+to+Vatsalya's+profile)](https://git.io/typing-svg)
+
+</div>
+
 ![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhub29tbzZ6ejJ3OW9pZXNvOXliNjBsODd6MTJ0MTFmMnU2MTh0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ywyl1TRS9wqjmyxFeI/giphy.gif)
 
 <h1 align="center">Hi There! <img width="48" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm Vatsalya Gautam</h1>
@@ -7,8 +13,9 @@
 
 <h2 align="center">A Passionate Full Stack Developer from India 🇮🇳</h2>
 
-<div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalyagautam&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalyagautam" /> </p>
+<div><p align="left">
+ <img src="https://komarev.com/ghpvc/?username=VatsalyaGautam&style=for-the-badge&abbreviated=true">
+</p>
 </div>
 <img align="right"  alt="Coding" width="51%"  src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif">
 
