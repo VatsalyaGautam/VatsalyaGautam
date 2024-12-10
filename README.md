@@ -4,7 +4,7 @@
 
 </div>
 
-![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhub29tbzZ6ejJ3OW9pZXNvOXliNjBsODd6MTJ0MTFmMnU2MTh0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ywyl1TRS9wqjmyxFeI/giphy.gif)
+![MasterHead](./assests/programer-ezgif.com-crop.gif)
 
 <h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm Vatsalya Gautam</h1>
 <h3 align="center">
