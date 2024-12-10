@@ -1,6 +1,6 @@
 ![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhub29tbzZ6ejJ3OW9pZXNvOXliNjBsODd6MTJ0MTFmMnU2MTh0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ywyl1TRS9wqjmyxFeI/giphy.gif)
 
-<h1 align="center">Hi There!👋 I'm Vatsalya Gautam</h1>
+<h1 align="center">Hi There!👋&nbsp;&nbsp;&nbsp;I'm Vatsalya Gautam</h1>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=29&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=A+Passionate+Fullstack+Developer+from+India;A+Enthusiastic+Software+Developer+from+India;A+Creative+Problem+Solver+and+Thinker;A+Open-Source+Contributor+and+Innovator;Coding+the+Future!" />
 </h3>
