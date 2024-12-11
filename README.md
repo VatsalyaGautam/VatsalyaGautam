@@ -149,17 +149,19 @@
 </thead>
      <tr>
         <td  colspan="2" align="center"> 
-		<img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/>	
+		<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vatsalyagautam/vatsalyagautam/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vatsalyagautam/vatsalyagautam/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vatsalyagautam/vatsalyagautam/output/github-contribution-grid-snake.svg" />
+</picture>
 	</td>
 	</tr>
      
 
   </table>
-
-
 </div>
 <div  style="width: 100%;">
-	<img style="width: 100%;" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" / >
+	
 </div>
 
 
