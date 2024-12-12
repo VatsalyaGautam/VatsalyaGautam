@@ -149,10 +149,13 @@
 </thead>
      <tr>
         <td  colspan="2" align="center"> 
+		<br>
+		<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+	
 <picture>
-  		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vatsalyagautam/vatsalyagautam/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vatsalyagautam/vatsalyagautam/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vatsalyagautam/vatsalyagautam/output/github-contribution-grid-snake-dark.svg" />
+  	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vatsalyagautam/vatsalyagautam/output/github-contribution-grid-snake-dark.svg" />
+  	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vatsalyagautam/vatsalyagautam/output/github-contribution-grid-snake.svg" />
+  	<img alt="github-snake" src="https://raw.githubusercontent.com/vatsalyagautam/vatsalyagautam/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 	</td>
 	</tr>
@@ -160,8 +163,7 @@
 
   </table>
 </div>
-<div  style="width: 100%;">
-	
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 
