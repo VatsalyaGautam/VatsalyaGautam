@@ -123,10 +123,10 @@
 <br/>
 <br/>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
-
-
+<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
+<br>
 <div align="center">
-<h2 align='center' weight="1000"><i>Github Analytics ⚙️</i></h2>
+<h2 align="center" style="text-decoration: none;"><i>Github Analytics ⚙️</i></h2>
 <br>
 
   <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
