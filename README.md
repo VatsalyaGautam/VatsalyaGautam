@@ -13,7 +13,7 @@
 <br>
 
 
-![MasterHead](./assets/programer-ezgif.com-crop.gif)
+![MasterHead](./assets/highQuality.gif)
 
 <h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/name.svg"  alt="Vatsalya Gautam"/></h1>
 <h3 align="center">
