@@ -13,7 +13,7 @@
 <br>
 
 
-![MasterHead](./assets/Vatsalya-3.gif)
+![MasterHead](./assets/Vatsalya-11-ezgif.com-crop-2.gif)
 
 <h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/name.svg"  alt="Vatsalya Gautam"/></h1>
 <h3 align="center">
@@ -123,7 +123,7 @@
 <br/>
 <br/>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
+
 <br>
 <div align="center">
 <h2 align="center" style="text-decoration: none;"><i>Github Analytics ⚙️</i></h2>
