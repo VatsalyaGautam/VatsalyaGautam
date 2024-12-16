@@ -140,7 +140,6 @@
   				<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vatsalyagautam/vatsalyagautam/profile-3d-contrib/profile-green.svg"  style="width: 100%; object-fit: contain;"/>
   				<img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
 			</picture>
-			  
 		  </th>
 		</tr>
 		 <tr>
