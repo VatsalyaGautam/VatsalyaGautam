@@ -136,8 +136,8 @@
 		<tr>
 		  <th colspan="2" align="center">
 			  <picture>
-  				<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vatsalyagautam/vatsalyagautam/profile-3d-contrib/profile-night-green.svg"  style="width: 100%; object-fit: contain;" />
-  				<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vatsalyagautam/vatsalyagautam/profile-3d-contrib/profile-green.svg"  style="width: 100%; object-fit: contain;"/>
+  				<source media="(prefers-color-scheme: dark)" src="./profile-3d-contrib/profile-night-green.svg"  style="width: 100%; object-fit: contain;" />
+  				<source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg"  style="width: 100%; object-fit: contain;"/>
   				<img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
 			</picture>
 		  </th>
