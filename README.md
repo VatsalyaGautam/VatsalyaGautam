@@ -115,7 +115,7 @@
 	</tr>
 	<tr>
 		<td><strong>Debugging Tools</strong></td>
-		<td> <img height=40 src="https://skillicons.dev/icons?i=stackoverflow&theme=dark"> &nbsp;<img height=40 src=https://i.ibb.co/qsFmdQc/Untitled-design-2-removebg-preview.png"> &nbsp;<img height=40 src="https://i.ibb.co/pwsQMbV/icon-removebg-preview.png"> &nbsp;<img height=40 src="https://i.ibb.co/t2YS8SV/Screenshot-2024-12-09-at-10-27-30-PM-removebg-preview-3.png"> <img height=40 src="https://i.ibb.co/NYSZFBr/Untitled-design-6-removebg-preview.png"> <img height=40 src="https://i.ibb.co/ZL0HDJP/Untitled-design-5-removebg-preview.png">  </td>
+		<td> <img height=40 src="https://skillicons.dev/icons?i=stackoverflow&theme=dark"> &nbsp;<img height=40 src=https://i.ibb.co/qsFmdQc/Untitled-design-2-removebg-preview.png"> &nbsp;<img height=40 src="https://i.ibb.co/pwsQMbV/icon-removebg-preview.png"> &nbsp;<img height=40 src="https://i.ibb.co/t2YS8SV/Screenshot-2024-12-09-at-10-27-30-PM-removebg-preview-3.png"> <img height=40 src="assets/perplexity.png"> <img height=40 src="https://i.ibb.co/ZL0HDJP/Untitled-design-5-removebg-preview.png">  </td>
 	</tr>
 	<tr>
 		<td><strong>Collaboration Platforms</strong></td>
