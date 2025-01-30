@@ -43,7 +43,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **C++, React, Javascript**
+- 💬 Ask me about **C++, React.js, Next.js, Javascript**
 
 - 👯 I’m looking to collaborate on **on open-source projects related to Web Development**
 
@@ -98,7 +98,7 @@
 	</tr>
 	<tr>
 		<td><strong>Frameworks</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=react,vite,django&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=react,next,vite,django&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Cloud Deployment</strong></td>
