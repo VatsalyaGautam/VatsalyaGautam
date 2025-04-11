@@ -3,11 +3,9 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <picture>
   <!-- Dark mode image -->
-  <source media="(prefers-color-scheme: dark)" width="100%"
-          srcset="/assets/heroTypingDark.svg" />
-  <!-- Light mode image -->
-  <img alt="Typing SVG" width="100%"
-       srcset="/assets/heroTypingLight.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="/assets/heroTypingDark.svg" />
+  <!-- Light mode image (default) -->
+  <img src="/assets/heroTypingLight.svg" alt="Typing SVG" width="100%" />
 </picture>
 
  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee34f51d-eb2c-4fd0-8047-260ae0417996/demij6b-7cea31ba-524e-440b-8567-5249198385d5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlMzRmNTFkLWViMmMtNGZkMC04MDQ3LTI2MGFlMDQxNzk5NlwvZGVtaWo2Yi03Y2VhMzFiYS01MjRlLTQ0MGItODU2Ny01MjQ5MTk4Mzg1ZDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.X1f9W8JPziANOvZR18_H7xwvgcy4XJ8b8yMgcrdM1f0" width="165" height="160">
