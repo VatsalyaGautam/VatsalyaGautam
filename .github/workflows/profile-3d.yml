@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 1 * * *"  # This runs the workflow daily at 1:00 UTC
+    - cron: "0 1 * * 1"  # This runs the workflow daily at 1:00 UTC
   workflow_dispatch:  # This allows manual triggering of the workflow
 
 jobs:
